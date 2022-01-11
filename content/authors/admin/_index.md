@@ -13,7 +13,7 @@ education:
       year: 2023
     - course: BSE in Computer Science
       institution: University of Pennsylvania
-      year: 2020
+      year: 2023
 email: ""
 superuser: true
 highlight_name: true
